@@ -42,9 +42,9 @@ Method names should begin with a lowercase letter (or an underscore). "?", "!" a
 * The sequence in which the parameters are put on to the stack are left to right.
 ## Ruby ri Tool
 ri dovetails with RDoc: It gives you a way to view the information that RDoc has extracted and organized. Specifically (although not exclusively, if you customize it), ri is configured to display the RDoc information from the Ruby source files. Thus on any system that has Ruby fully installed, you can get detailed information about Ruby with a simple command-line invocation of ri. Some more information is available here:
-[http://www.caliban.org/ruby/rubyguide.shtml#ri](http://www.caliban.org/ruby/rubyguide.shtml#ri)
-[http://en.wikipedia.org/wiki/RDoc](http://en.wikipedia.org/wiki/RDoc)
-[https://github.com/rdoc/rdoc](https://github.com/rdoc/rdoc)
+* [http://www.caliban.org/ruby/rubyguide.shtml#ri](http://www.caliban.org/ruby/rubyguide.shtml#ri)
+* [http://en.wikipedia.org/wiki/RDoc](http://en.wikipedia.org/wiki/RDoc)
+* [https://github.com/rdoc/rdoc](https://github.com/rdoc/rdoc)
 ## More On Strings
 #### Listing all methodes of a class or object
 **String.methods.sort**
